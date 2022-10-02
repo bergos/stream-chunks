@@ -1,6 +1,6 @@
 {
   "name": "stream-chunks",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get all chunks of a stream",
   "type": "module",
   "main": "index.js",

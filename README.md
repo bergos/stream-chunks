@@ -1,5 +1,6 @@
 # stream-chunks
-[![build status](https://img.shields.io/github/workflow/status/bergos/stream-chunks/Test)](https://github.com/bergos/stream-chunks/actions/workflows/test.yaml)
+
+[![build status](https://img.shields.io/github/actions/workflow/status/bergos/stream-chunks/test.yaml?branch=master)](https://github.com/bergos/stream-chunks/actions/workflows/test.yaml)
 [![npm version](https://img.shields.io/npm/v/stream-chunks.svg)](https://www.npmjs.com/package/stream-chunks)
 
 Get all chunks of a stream.
